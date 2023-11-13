@@ -9,7 +9,7 @@ const Navbar = () => {
         <div className="w-full  bg-slate-200 text-sal px-10 lg:px-28 py-3  flex items-center justify-between">
             <div className="flex items-center space-x-2">
                 {/* Left Logo */}
-                <img src={('../../src/assets/img/logo.png')} alt="Logo" className="h-8 w-8" />
+                <img src={('/img/logo.png')} alt="Logo" className="h-8 w-8" />
                 {/* Site Name */}
                 <span className="text-xl font-bold">StreamClub</span>
             </div>

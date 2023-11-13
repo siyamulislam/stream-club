@@ -11,10 +11,10 @@ const Main = () => {
                 <h2 className="text-2xl py-2">Upcoming match</h2>
 
                 <div className=" md:flex items-center block md:space-x-8 py-4">
-                    <img src="../../src/assets/img/team1.png" alt="team1"
+                    <img src="/img/team1.png" alt="team1"
                         className="h-44 md:h-36 w-80 md:w-60" />
                     <p className="text-4xl font-bold text-indigo-600 italic py-3 text-center">VS</p>
-                    <img src="../../src/assets/img/team2.png" alt="team2"
+                    <img src="/img/team2.png" alt="team2"
                         className="h-44 md:h-36 w-80 md:w-60" />
                 </div>
 
